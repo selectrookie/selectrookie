@@ -11,7 +11,7 @@ En un futuro me gustaría centrarme solo en front, pero aún queda para eso <3.
 
 ¡Gracias!
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 
 
 <!--
