@@ -11,6 +11,9 @@ En un futuro me gustaría centrarme solo en front, pero aún queda para eso <3.
 
 ¡Gracias!
 
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+
+
 <!--
 **selectrookie/selectrookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
