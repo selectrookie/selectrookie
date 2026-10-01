@@ -1,5 +1,16 @@
 ## Hola :) 👋
 
+Mi nombre es Marcelo y hace poco que empecé en este mundo. Futuro Técnico de Informática del Estado con muchas cosas que aprender todavía.
+
+Programo en Python, soy un friki del SQL y las bases de datos y actualmente estoy emprendiendo mi camino hacia DevOps.
+
+Mis repositorios son pequeños proyectos, muy sencillos, que sirven para demostrar experiencia en Python, MySQL y Containers.
+También dispongo de varios certificados de Cisco y AWS ;)
+
+En un futuro me gustaría centrarme solo en front, pero aún queda para eso <3.
+
+¡Gracias!
+
 <!--
 **selectrookie/selectrookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
