@@ -12,7 +12,7 @@ En un futuro me gustaría centrarme solo en front, pero aún queda para eso <3.
 ¡Gracias!
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![MySQL](https://shields.io)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 
 <!--
