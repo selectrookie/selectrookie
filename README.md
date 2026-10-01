@@ -1,8 +1,9 @@
 ## Hola :) 👋
 
 <div align="center">Mi nombre es Marcelo y hace poco que empecé en este mundo. </div> 
-<p>
-Futuro Técnico de Informática del Estado con muchas cosas que aprender todavía.</p>
+
+
+<p>Futuro Técnico de Informática del Estado con muchas cosas que aprender todavía.</p>
 
 Programo en Python, soy un friki del SQL y las bases de datos y actualmente estoy emprendiendo mi camino hacia DevOps.
 
