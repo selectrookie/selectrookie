@@ -9,7 +9,6 @@ Programo en Python, soy un friki del SQL y las bases de datos, pero actualmente 
 Mis repositorios son pequeños proyectos, muy sencillos, que sirven para demostrar experiencia en Python, MySQL y Containers.
 También dispongo de varios certificados de Cisco y AWS ;)
 
-En un futuro me gustaría centrarme solo en front, pero aún queda para eso <3.
 
 ¡Gracias!
 
