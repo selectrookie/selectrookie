@@ -6,7 +6,7 @@ Futuro Técnico de Informática del Estado con muchas cosas que aprender todaví
 
 Programo en Python, soy un friki del SQL y las bases de datos, pero actualmente estoy virando más mi camino al Frontend con intención de dedicar mi carrera al Web Developement.
 
-Mis repositorios son pequeños proyectos, muy sencillos, que sirven para demostrar experiencia en Python, MySQL y Containers.
+Mis repositorios son pequeños proyectos, muy sencillos, que sirven para demostrar experiencia en los diferentes lenguajes que he ido aprendiendo.
 También dispongo de varios certificados de Cisco y AWS ;)
 
 
