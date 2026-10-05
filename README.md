@@ -4,7 +4,7 @@ Mi nombre es Marcelo y hace poco que empecé en este mundo.
 
 Futuro Técnico de Informática del Estado con muchas cosas que aprender todavía.
 
-Programo en Python, soy un friki del SQL y las bases de datos y actualmente estoy emprendiendo mi camino hacia DevOps.
+Programo en Python, soy un friki del SQL y las bases de datos, pero actualmente estoy virando más mi camino al Frontend con intención de dedicar mi carrera al Web Developement.
 
 Mis repositorios son pequeños proyectos, muy sencillos, que sirven para demostrar experiencia en Python, MySQL y Containers.
 También dispongo de varios certificados de Cisco y AWS ;)
@@ -17,6 +17,7 @@ En un futuro me gustaría centrarme solo en front, pero aún queda para eso <3.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+![CSS Badge](https://shields.io)
 
 
 
